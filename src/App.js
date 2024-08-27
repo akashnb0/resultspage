@@ -14,6 +14,7 @@ function App() {
       <div className="container">
         <h1>Saraswathi Technical Institute</h1>
         <h3>Final Examination Results</h3>
+        <br></br>
         <p className="animated-text">Click to view your results</p>
         <br></br>
         <br></br>
