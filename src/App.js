@@ -38,11 +38,12 @@ function App() {
           </div>
           <div className="topper">
             <img src={manishaImage} alt="Manisha S" className="topper-image" />
-            <p><b>anisha S</b></p>
+            <p><b>Manisha S</b></p>
             <p>Rank 3</p>
           </div>
         </div>
         {/* End of Toppers Section */}
+        <br></br>
         <p className="admin-info">Admin: <b>Akash S</b>, 8220093377</p>
       </div>
     </div>
