@@ -3,7 +3,7 @@
   justify-content: center;
   align-items: center;
   height: 100vh;
-  background-color: #F3E6F5; /* Very light thistle background */
+  background-color: #F3E6F5; 
 }
 
 .container {
@@ -12,12 +12,12 @@
 
 h1 {
   font-size: 2em;
-  color: #450175; /* Darker shade of Thistle */
+  color: #450175; 
 }
 
 h3 {
   font-size: 1.7em;
-  color: #4B0082; /* Darker shade of Thistle */
+  color: #4B0082; 
 }
 
 p {
@@ -39,7 +39,7 @@ p {
   padding: 10px 20px;
   font-size: 1.2em;
   color: white;
-  background: linear-gradient(45deg, #D8BFD8, #C6A4C6); /* Darker thistle gradient */
+  background: linear-gradient(45deg, #D8BFD8, #C6A4C6);
   border: none;
   border-radius: 25px;
   cursor: pointer;
@@ -95,35 +95,6 @@ p {
 
 .admin-info {
   margin-top: 20px;
-  font-size: 1em;
-  color: #4B0082;
-}
-
-/* Existing styles remain unchanged */
-
-.toppers-container {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  margin-top: 20px;
-}
-
-.topper {
-  text-align: center;
-  margin: 0 20px;
-}
-
-.topper-image {
-  width: 100px;
-  height: 100px;
-  border-radius: 50%;
-  border: 1px solid #4B0082; /* Reduced border thickness to 1px */
-  object-fit: cover;
-  margin-bottom: 10px;
-}
-
-.topper p {
-  margin: 0;
   font-size: 1em;
   color: #4B0082;
 }
